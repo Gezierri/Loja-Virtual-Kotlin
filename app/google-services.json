@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "102043712658",
+    "project_id": "loja-virtual-60643",
+    "storage_bucket": "loja-virtual-60643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102043712658:android:dc2c3073acb1315fe8ba4b",
+        "android_client_info": {
+          "package_name": "com.gezierri.app_lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102043712658-jd1smcsaj8bjjtatq4oh9am6l6aipvn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gezierri.app_lojavirtual",
+            "certificate_hash": "0b10a3af8efee9f616d696b1ee7f34532f0f4c97"
+          }
+        },
+        {
+          "client_id": "102043712658-8e264t4ege3tarvn0r6oi2vnurcutuo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp734DYx2E8A2gmdqkBB_viypajpgD9ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102043712658-8e264t4ege3tarvn0r6oi2vnurcutuo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

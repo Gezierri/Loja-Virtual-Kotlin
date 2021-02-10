@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">App - Loja Virtual</string>
+    <string name="tela_1_titulo_1">Loja Online de Calçados</string>
+    <string name="tela_1_titulo_2">Entre e confira as promoções que preparamos para você!</string>
+    <string name="criar_conta">Crie uma conta clicando aqui!</string>
+    <string name="btn_entrar">entrar</string>
+    <string name="txt_criar_cadastro">Cadastre-se</string>
+    <string name="cadastar">Cadastrar</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="title_activity_tela_principal">TelaPrincipalActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Produtos</string>
+    <string name="menu_gallery">Cadastrar Produtos</string>
+    <string name="menu_slideshow">Contato</string>
+    <string name="menu_sair">Sair</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
